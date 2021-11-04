@@ -1,0 +1,15 @@
+Metadata-Version: 1.1
+Name: morse-talk
+Version: 0.2
+Summary: An aide to Morse Code
+Home-page: https://github.com/morse-talk/morse-talk
+Author: morse-talk developers
+Author-email: himanshu2014iit@gmail.com
+License: MIT
+Download-URL: https://github.com/morse-talk/morse-talk/archive/master.zip
+Description: UNKNOWN
+Keywords: morse code talk
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 3
