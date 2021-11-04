@@ -89,7 +89,7 @@ for i in range(100):
 		elif eq[1] == "*":
 			eqs = int(eq[0]) * int(eq[2])
 		elif eq[1] == "/":
-			eqs = int(eq[0]) * int(eq[2])
+			eqs = int(eq[0]) / int(eq[2])
 		eqs = int(eqs)
 		io.sendline(str(eqs))
 
